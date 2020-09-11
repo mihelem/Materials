@@ -170,4 +170,4 @@ Collection of useful repositories divided per exam.
 - [**S&EI material A.Y. 2019/20**](https://github.com/dilettagoglia/AI-social-ethical-issues) - [Diletta Goglia](https://github.com/dilettagoglia) - Notes from lectures, final essay and midterm presentation
 
 ## SOFTWARE VALIDATION AND VERIFICATION
-- Be the first to contribute, open a pull request with your material!
+- [ Infer ](https://github.com/mihelem/infer) - Project 2018-19
