@@ -36,11 +36,13 @@ Collection of useful repositories divided per exam.
 
 ## BIOINFORMATICS
 - [_TwoPaCo_](https://github.com/GaspareG/TwoPaCoPresentation) - [GaspareG](https://github.com/GaspareG) - Slides of exam seminar (subject: TwoPaCo, an efficient algorithm for compacted de Bruijn graph construction)
+- [_Optimal Omnitig Listing_](https://github.com/mihelem/explang/PPTX/OptOmnLis.pptx) - Seminar 2017-18
 
 ## COMPETITIVE PROGRAMMING AND CONTESTS
 - [**Exercises 2018-19**](https://github.com/GaspareG/cpc-exam) - [GaspareG](https://github.com/GaspareG) - Solutions of all the homeworks and some exams
 - [**Exercises 2018-19**](https://github.com/guanaco96/Competitive-Programming) - [lorenzo2beretta](https://github.com/lorenzo2beretta) - Homeworks solutions
 - [**Exercises 2017-18**](https://github.com/lapotolo/CompetitiveProgramming) - [lapotolo](https://github.com/lapotolo) - Homeworks solutions
+- [**Exercises 2017-18**](https://github.com/MicheleMiccinesi/Competitive-Programming/wiki) - Fun with Rossano
 
 ## COMPUTATIONAL MATHEMATICS FOR LEARNING AND DATA ANALYSIS
 - [_Compute efficiently the QR factorization of a matrix `(A|X)` given the QR factorization of `A`_](https://bitbucket.org/melfnt/cmproject) - Lucio Messina and Ivan Carosi -  Project 2018-19 (14 NoML) + report with lecturers feedback.
@@ -95,10 +97,11 @@ Collection of useful repositories divided per exam.
 
 
 ## LABORATORY FOR INNOVATIVE SOFTWARE
-- Be the first to contribute, open a pull request with your material!
+- [ Infer ](https://github.com/mihelem/infer) - Project 2018-19
 
 ## LANGUAGES, COMPILERS AND INTERPRETERS
 - [_LCI18_](https://github.com/lapotolo/LCI18) - [lapotolo](https://github.com/lapotolo) - Project 2018-19: A little compiler for a little language
+- [_re_](https://github.com/mihelem/Compilers/re) - Project 2018-19
 
 ## MACHINE LEARNING
 - [Project 2019-20](https://github.com/paololabr/artificial-neural-network-simulator) Paolo Labruna and Lucio Messina (standard project, type A + report with lecturer feedback). 
@@ -128,6 +131,7 @@ Collection of useful repositories divided per exam.
 - [_ImageWatermarking_](https://github.com/magemma/Image-Watermarking) - [magemma](https://github.com/magemma) - Project 2017-18
 - [_ImgWatermark_](https://github.com/antonio-sisbarra/ImgWatermark) - [antonio-sisbarra](https://github.com/antonio-sisbarra) - Project 2017-18
 - [_MapReduce_](https://github.com/galatea058/spm) - [galatea058](https://github.com/galatea058) - Project 2017-18 (?)
+- [_DEI_](https://github.com/MicheleMiccinesi/Competitive-Programming/wiki/CPP-parallel-std) - Project 2017-18 (catch the UB) and assignments
 
 ## PEER TO PEER SYSTEMS AND BLOCKCHAINS
 - [_SmartAuctions_](https://github.com/lucacorbucci/SmartAuctions) - [lucacorbucci](https://github.com/lucacorbucci) - Project 2018-19 (blockchain)
@@ -170,4 +174,4 @@ Collection of useful repositories divided per exam.
 - [**S&EI material A.Y. 2019/20**](https://github.com/dilettagoglia/AI-social-ethical-issues) - [Diletta Goglia](https://github.com/dilettagoglia) - Notes from lectures, final essay and midterm presentation
 
 ## SOFTWARE VALIDATION AND VERIFICATION
-- [ Infer ](https://github.com/mihelem/infer) - Project 2018-19
+- [_Weak Memory_](https://github.com/mihelem/explang/PPTX/WeakMemory_pres.pptx)
