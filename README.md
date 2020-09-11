@@ -36,7 +36,7 @@ Collection of useful repositories divided per exam.
 
 ## BIOINFORMATICS
 - [_TwoPaCo_](https://github.com/GaspareG/TwoPaCoPresentation) - [GaspareG](https://github.com/GaspareG) - Slides of exam seminar (subject: TwoPaCo, an efficient algorithm for compacted de Bruijn graph construction)
-- [_Optimal Omnitig Listing_](https://github.com/mihelem/explang/PPTX/OptOmnLis.pptx) - Seminar 2017-18
+- [_Optimal Omnitig Listing_](https://github.com/mihelem/explang/tree/master/PPTX/OptOmnLis.pptx) - Seminar 2017-18
 
 ## COMPETITIVE PROGRAMMING AND CONTESTS
 - [**Exercises 2018-19**](https://github.com/GaspareG/cpc-exam) - [GaspareG](https://github.com/GaspareG) - Solutions of all the homeworks and some exams
@@ -174,4 +174,4 @@ Collection of useful repositories divided per exam.
 - [**S&EI material A.Y. 2019/20**](https://github.com/dilettagoglia/AI-social-ethical-issues) - [Diletta Goglia](https://github.com/dilettagoglia) - Notes from lectures, final essay and midterm presentation
 
 ## SOFTWARE VALIDATION AND VERIFICATION
-- [_Weak Memory_](https://github.com/mihelem/explang/PPTX/WeakMemory_pres.pptx)
+- [_Weak Memory_](https://github.com/mihelem/explang/tree/master/PPTX/WeakMemory_pres.pptx)
